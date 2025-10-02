@@ -1,0 +1,1 @@
+python -m streamlit run D:\OneDrive_16102024\OneDrive\Scans\python\emi\emi_app.py
